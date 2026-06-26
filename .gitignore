@@ -1,0 +1,12 @@
+/**/*.log
+/**/.DS_Store
+/**/.project
+/**/.classpath
+/**/.settings/
+/**/target
+/**/test-output
+dependency-reduced-pom.xml
+*.versionsBackup
+/.idea
+/inventory1_export.json
+/inventory1_export.csv

@@ -11,7 +11,7 @@
         <target.jvm>21</target.jvm>
         <required-maven-version>3.3.1</required-maven-version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <lwjgl.version>3.4.1</lwjgl.version>
+        <lwjgl.version>3.4.2</lwjgl.version>
     </properties>
     <dependencies>
         <dependency>
